@@ -1,4 +1,4 @@
-import useQueries from 'history/lib/useQueries'
+import useQueries from 'history/useQueries'
 
 import createTransitionManager from './createTransitionManager'
 import warning from './routerWarning'

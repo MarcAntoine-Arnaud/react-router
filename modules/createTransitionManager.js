@@ -1,5 +1,5 @@
 import warning from './routerWarning'
-import { REPLACE } from 'history/lib/Actions'
+import { REPLACE } from 'history/Actions'
 import computeChangedRoutes from './computeChangedRoutes'
 import { runEnterHooks, runChangeHooks, runLeaveHooks } from './TransitionUtils'
 import _isActive from './isActive'

@@ -1,5 +1,5 @@
-import createHashHistory from 'history/lib/createHashHistory'
-import useQueries from 'history/lib/useQueries'
+import createHashHistory from 'history/createHashHistory'
+import useQueries from 'history/useQueries'
 import React from 'react'
 
 import createTransitionManager from './createTransitionManager'

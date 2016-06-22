@@ -1,4 +1,4 @@
-import createBrowserHistory from 'history/lib/createBrowserHistory'
+import createBrowserHistory from 'history/createBrowserHistory'
 import createRouterHistory from './createRouterHistory'
 export default createRouterHistory(createBrowserHistory)
 
